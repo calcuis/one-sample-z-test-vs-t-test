@@ -7,7 +7,7 @@ py one-sample-z-test.py
 py one-sample-t-test.py
 ```
 ### (one-sample) z-test vs t-test 
-The main difference between a one-sample Z-test and a one-sample T-test lies in the assumptions about the population standard deviation and the sample size:
+The main difference between a one-sample Z-test and a one-sample T-test lies in the assumptions about the population standard deviation and the sample size; please read the details below.
 #### Population Standard Deviation
 One-Sample Z-Test:
 - Known Population Standard Deviation: The Z-test is used when the population standard deviation (σ) is known.
